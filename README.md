@@ -14,6 +14,4 @@
 Plataforma web de vagas para estágio, trainee e nível júnior.
 
 **Problema a ser resolvido:**
-O processo de busca por primeiras oportunidades de emprego é altamente ineficiente para estudantes. Portais de vagas tradicionais entregam muito ruído, mantêm vagas desatualizadas ativas, exigem múltiplos cadastros e usam algoritmos obscuros. 
-
-O projeto resolve esse problema descartando a automação genérica de busca e priorizando a curadoria humana aliada a uma infraestrutura de software de alta performance. A plataforma consome dados de uma planilha validada manualmente e distribui essas oportunidades em uma interface web estática (via Next.js e ISR). Isso garante aos alunos acesso imediato a vagas reais e filtradas, com redirecionamento direto para o link de candidatura da empresa, eliminando barreiras, intermediários e ruído.
+Quem está procurando a primeira oportunidade na área de tecnologia perde muito tempo caçando vagas espalhadas por dezenas de sites diferentes. O problema que estamos resolvendo é justamente essa perda de tempo e o excesso de ruído. Nós centralizamos as melhores vagas de estágio, jovem aprendiz, trainee e júnior. Pegamos essas oportunidades de plataformas confiáveis e de grandes empresas, e colocamos tudo em um único lugar com um sistema de busca rápido e prático. A base de dados é atualizada toda semana, entregando o link direto da vaga para o usuário de forma fácil e sem enrolação.
